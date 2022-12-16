@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.kayit_ol
+{
+    width: 100%;
+    height: 740px;
+    background-color: aliceblue;
+}
+
+.kutu
+{
+    width: 540px;
+    height: 430px;
+    background-color:bisque;
+    margin: auto;
+    padding: 80px;
+    height: 500px;
+    position: relative;
+    top: 60px;
+    border-radius: 5px;
+
+}
+
+.kayit_header
+{
+    width: 190px;
+    height: 27px;
+    border-style: solid;
+    text-align: center;
+    padding-top: 8px;
+    margin: auto;
+    position: relative;
+    top: 35px;
+    background-color: white;
+    border-radius: 4px;
+    font-size: 20px;
+    right: 10px;
+
+}
+.kutu input[ type="text"]
+{
+    width: 170px;
+    height: 35px;
+    position: relative;
+    top: 55px;
+    margin-left: 15%;
+    margin-right: -15%;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.kutu input[ type="email"],input[ type="number"],input[ type="password"]
+{
+    width: 270px;
+    height: 40px;
+    margin-left: 22%;
+    margin-right: -25%;
+    position: relative;
+    top: 62px;
+    border-radius: 5px;
+    margin-top: 5px;
+   text-align: center;    
+}
+
+.kutu input[ type="submit"]
+{
+    width: 150px;
+    height: 40px;
+    position: relative;
+    top: 110px;
+    margin-left: 100px;
+    border-radius: 10px;
+    background-color: white;
+    right: 175px;
+}
+
+.kutu select
+{
+    width: 270px;
+    height: 40px;
+    margin-left: 22%;
+    margin-right: -25%;
+    position: relative;
+    top: 62px;
+    border-radius: 5px;
+    margin-top: 5px;
+   text-align: center;
+
+}
+
+.login{
+    width: 270px;
+    height: 25px;
+    background-color:white;
+    margin: auto;
+    position: relative;
+    top: 120px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 20px;
+    border-color: black;
+    right: 10px;
+}
+
+.login a{
+    color: black;
+    text-decoration: none;
+
+}
+   
+
+
